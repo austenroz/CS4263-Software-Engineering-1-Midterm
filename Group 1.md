@@ -1,15 +1,16 @@
 ## Group GROUPNAME Review
 
-* Description of Program
+* **Description of Program**
   * test text
   
-* Design Patterns and purpose.
-  * test text
-* Were selected design patterns used effectively?
+* **Design Patterns and purpose.**
   * test text
   
-* Evaluation of program.
+* **Were selected design patterns used effectively?**
   * test text
   
-* Suggestions and additional feedback.
+* **Evaluation of program.**
+  * test text
+  
+* **Suggestions and additional feedback.**
   * test text
